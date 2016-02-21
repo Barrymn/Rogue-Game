@@ -1,0 +1,25 @@
+|-----------------------------------------------------------------------------|
+|$ $ $ $$$$ $    $$$$ $$$$ $$$$$ $$$$        Tutorial:                        |
+|$ $ $ $    $    $    $  $ $ $ $ $                                            |
+|$ $ $ $$$$ $    $    $  $ $ $ $ $$$$        1. no,so,ea,we,ne,nw,se,sw:      |
+|$ $ $ $    $    $    $  $ $ $ $ $              moves the player one block in |
+|$$$$$ $$$$ $$$$ $$$$ $$$$ $ $ $ $$$$           the specified direction       |
+|                                                                             |
+|           $$$$$  $$$$$                     2. u <direction>:                |
+|             $    $   $                        uses the potion indicated by  |
+|             $    $   $                        the direction                 |
+|             $    $   $                                                      |
+|             $    $$$$$                     3. a <direction>:                |
+|                                               attacks the enemy in the      |
+|      $$$$$ $$$$$ $$$$$ $  $                   specified direction           |
+|      $     $         $ $ $                                                  |
+|      $     $     $$$$$ $$                  4. r:                            |
+|      $     $         $ $ $                    restart the game              |
+|      $$$$$ $$$$$ $$$$$ $  $                                                 |
+|                                            5. q:                            |
+|                                               exit the game                 |
+|                                                                             |
+|                                                                             |
+|               please press c to continue                                    |
+|                                                                             |
+|-----------------------------------------------------------------------------|
