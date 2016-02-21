@@ -2,8 +2,8 @@
 //  chamber.h
 //  cc3k
 //
-//  Created by Ziquan Wang on 2013-07-21.
-//  Copyright (c) 2013 Ziquan Wang. All rights reserved.
+//  Created by Ning Ma on 2013-07-21.
+//  Copyright (c) 2013 Ning Ma. All rights reserved.
 //
 
 #ifndef __cc3k__chamber__
